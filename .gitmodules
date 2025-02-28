@@ -1,0 +1,3 @@
+[submodule "flutter-ap"]
+	path = flutter-ap
+	url = https://github.com/Hansung-Gourmet/flutter-app.git
